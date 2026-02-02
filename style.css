@@ -1,0 +1,6 @@
+:root{
+    --primarycolor: #4CAF4F;
+}
+.green{
+    background-color: var(--primarycolor);
+}
